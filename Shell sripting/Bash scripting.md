@@ -1,0 +1,1 @@
+"$@" can be used for passing all the user parameters from a script

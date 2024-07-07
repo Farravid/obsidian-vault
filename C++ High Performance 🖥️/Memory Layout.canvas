@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7feca9a634cfab3f","x":-80,"y":-460,"width":250,"height":60,"color":"6","type":"text","text":"Stack"},
+		{"id":"29fe940bab7f48ec","x":-520,"y":-320,"width":413,"height":262,"color":"2","type":"text","text":"Static memory\n- Constants that are never modified by the program\n- Initialized variables that may be modified by the program\n- Uninitialized variables that may be modified by the program"},
+		{"id":"4a5f33aa55fa735f","x":-80,"y":60,"width":250,"height":60,"color":"4","type":"text","text":"Registers"},
+		{"id":"e630a44e56d156aa","x":294,"y":-197,"width":250,"height":60,"color":"1","type":"text","text":"Heap"}
+	],
+	"edges":[]
+}
