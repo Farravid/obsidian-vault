@@ -1,4 +1,9 @@
 
+- [[#My heading 2|My heading 2]]
+
+# Heading 1
+## My heading 2
+
 ===
 RISC vs CISC
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/
@@ -58,19 +63,5 @@ Negate a number
 TODO: Do something with the matrices and the cache?
 TODO: Can I print a simd instruction with fmt?
 
-# What is up
+[[optimizing_cpp.pdf]]
 
-```c++
-
-<compile>
-{
-	 "language": "c++"
-}
-</compile>
-
-int main()
-{
-	 int x = 5;
-	 return x;
-}
-```
