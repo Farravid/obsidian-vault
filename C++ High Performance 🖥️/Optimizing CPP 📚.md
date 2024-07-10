@@ -55,4 +55,22 @@ Negate a number
  `// will give -2.0`
 ===
 
+TODO: Do something with the matrices and the cache?
+TODO: Can I print a simd instruction with fmt?
 
+# What is up
+
+```c++
+
+<compile>
+{
+	 "language": "c++"
+}
+</compile>
+
+int main()
+{
+	 int x = 5;
+	 return x;
+}
+```
