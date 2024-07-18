@@ -6,6 +6,11 @@
 		1. [`-fno-rtti`](#%60-fno-rtti%60)
 	1. [MSVC](#MSVC)
 ***
+
+# Inlining
+One of the most important compiler optimizations!!
+If the symbol is not visible for the compiler, such as qsort() as an example the function cannot be inlined !!!
+
 # Compiler options
 ## GNU and Clang
 

@@ -13,3 +13,5 @@ frequency is 4 GHz then the length of a clock cycle is
 $$
 \frac{1}{4 GHz} = 0.25ns
 $$
+
+![[Pasted image 20240718165916.png]]
