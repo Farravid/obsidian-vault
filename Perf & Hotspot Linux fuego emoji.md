@@ -56,3 +56,6 @@ perf stat -h
 
 Use this command after building with debug in order to generate the data for **hotspot**:
 perf record --call-graph dwarf ./your_elf
+
+
+the comand sudo dmesg -w is useful for seeing the tty of a usb connected
